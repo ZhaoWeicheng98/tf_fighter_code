@@ -1,0 +1,105 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,background_png,boost_png,bug_bullet_png,moon_png,mooncake_bullet_png,shield_png,star_png,bug_png,player_png,health_png,restart_png,start_png,fzzt_fnt,hylx_fnt,bloodBar_png,bloodBarBg_png,shieldBar_png,bgm_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/background.png",
+			"type": "image",
+			"name": "background_png"
+		},
+		{
+			"url": "assets/boost_mooncake.png",
+			"type": "image",
+			"name": "boost_png"
+		},
+		{
+			"url": "assets/bug_bullet.png",
+			"type": "image",
+			"name": "bug_bullet_png"
+		},
+		{
+			"url": "assets/moon.png",
+			"type": "image",
+			"name": "moon_png"
+		},
+		{
+			"url": "assets/mooncake_bullet.png",
+			"type": "image",
+			"name": "mooncake_bullet_png"
+		},
+		{
+			"url": "assets/shield.png",
+			"type": "image",
+			"name": "shield_png"
+		},
+		{
+			"url": "assets/star.png",
+			"type": "image",
+			"name": "star_png"
+		},
+		{
+			"url": "assets/player.png",
+			"type": "image",
+			"name": "player_png"
+		},
+		{
+			"url": "assets/bug.png",
+			"type": "image",
+			"name": "bug_png"
+		},
+		{
+			"url": "assets/health.png",
+			"type": "image",
+			"name": "health_png"
+		},
+		{
+			"url": "assets/btn_start.png",
+			"type": "image",
+			"name": "start_png"
+		},
+		{
+			"url": "assets/restart.png",
+			"type": "image",
+			"name": "restart_png"
+		},
+		{
+			"url": "assets/fzzt.fnt",
+			"type": "font",
+			"name": "fzzt_fnt"
+		},
+		{
+			"url": "assets/hylx.fnt",
+			"type": "font",
+			"name": "hylx_fnt"
+		},
+		{
+			"url": "assets/bloodBar.png",
+			"type": "image",
+			"name": "bloodBar_png"
+		},
+		{
+			"url": "assets/shieldBar.png",
+			"type": "image",
+			"name": "shieldBar_png"
+		},
+		{
+			"url": "assets/bloodBarBg.png",
+			"type": "image",
+			"name": "bloodBarBg_png"
+		},
+		{
+			"url": "assets/bgm.mp3",
+			"type": "sound",
+			"name": "bgm_mp3"
+		}
+	]
+}

@@ -1,0 +1,140 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,boost_png,bug_bullet_png,moon_png,mooncake_bullet_png,shield_png,star_png,bug_png,player_png,health_png,restart_png,start_png,fzzt_fnt,hylx_fnt,bloodBar_png,bloodBarBg_png,shieldBar_png,background_png,share_png,meteorParticle_json,meteorParticle_png,sharebackground_jpg,sharefont_fnt,bgm_mp3,fzzt_png,sharefont_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/boost_mooncake.png",
+			"type": "image",
+			"name": "boost_png"
+		},
+		{
+			"url": "assets/bug_bullet.png",
+			"type": "image",
+			"name": "bug_bullet_png"
+		},
+		{
+			"url": "assets/moon.png",
+			"type": "image",
+			"name": "moon_png"
+		},
+		{
+			"url": "assets/mooncake_bullet.png",
+			"type": "image",
+			"name": "mooncake_bullet_png"
+		},
+		{
+			"url": "assets/shield.png",
+			"type": "image",
+			"name": "shield_png"
+		},
+		{
+			"url": "assets/star.png",
+			"type": "image",
+			"name": "star_png"
+		},
+		{
+			"url": "assets/player.png",
+			"type": "image",
+			"name": "player_png"
+		},
+		{
+			"url": "assets/bug.png",
+			"type": "image",
+			"name": "bug_png"
+		},
+		{
+			"url": "assets/health.png",
+			"type": "image",
+			"name": "health_png"
+		},
+		{
+			"url": "assets/btn_start.png",
+			"type": "image",
+			"name": "start_png"
+		},
+		{
+			"url": "assets/restart.png",
+			"type": "image",
+			"name": "restart_png"
+		},
+		{
+			"url": "assets/fzzt.fnt",
+			"type": "font",
+			"name": "fzzt_fnt"
+		},
+		{
+			"url": "assets/hylx.fnt",
+			"type": "font",
+			"name": "hylx_fnt"
+		},
+		{
+			"url": "assets/bloodBar.png",
+			"type": "image",
+			"name": "bloodBar_png"
+		},
+		{
+			"url": "assets/shieldBar.png",
+			"type": "image",
+			"name": "shieldBar_png"
+		},
+		{
+			"url": "assets/bloodBarBg.png",
+			"type": "image",
+			"name": "bloodBarBg_png"
+		},
+		{
+			"url": "assets/bgm.mp3",
+			"type": "sound",
+			"name": "bgm_mp3"
+		},
+		{
+			"url": "assets/background.jpg",
+			"type": "image",
+			"name": "background_png"
+		},
+		{
+			"url": "assets/share.png",
+			"type": "image",
+			"name": "share_png"
+		},
+		{
+			"url": "assets/meteorParticle.json",
+			"type": "json",
+			"name": "meteorParticle_json"
+		},
+		{
+			"url": "assets/meteorParticle.png",
+			"type": "image",
+			"name": "meteorParticle_png"
+		},
+		{
+			"url": "assets/sharebackground.jpg",
+			"type": "image",
+			"name": "sharebackground_jpg"
+		},
+		{
+			"url": "assets/sharefont.fnt",
+			"type": "font",
+			"name": "sharefont_fnt"
+		},
+		{
+			"name": "fzzt_png",
+			"type": "image",
+			"url": "assets/fzzt.png"
+		},
+		{
+			"name": "sharefont_png",
+			"type": "image",
+			"url": "assets/sharefont.png"
+		}
+	]
+}

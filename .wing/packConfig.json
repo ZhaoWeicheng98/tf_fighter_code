@@ -1,0 +1,9 @@
+{
+    "useClip": true,
+    "maxImageWidth": 2048,
+    "maxImageHeight": 2048,
+    "defaultResPath": "d:\\EgretProjects\\tf_fighter\\resource\\default.res.json",
+    "packGroups": {
+        "preload": true
+    }
+}
